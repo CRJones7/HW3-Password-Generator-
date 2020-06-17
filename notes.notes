@@ -1,0 +1,14 @@
+> click button
+    > start
+        > prompt
+            > pwordLength 8-128 characters
+            > characterType: 
+                > uppercase
+                > lowercase
+                > specialCharacters
+    > create random pword including selections
+        > pwordLength
+        > uppercase
+        > lowercase
+        > specialCharacters
+> write pword on screen or prompt password
